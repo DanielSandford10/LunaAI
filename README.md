@@ -1,4 +1,4 @@
-# Luna1 Model
+# LunaAI Model
 
 A customized LLM model for Ollama.
 
