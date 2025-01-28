@@ -34,10 +34,6 @@ If you encounter any issues:
 2. Verify the Modelfile is in your current directory
 3. Check that you have enough disk space for the model
 
-## License
-
-[Your chosen license]
-
 ## Support
 
 If you encounter any issues, please open an issue in this repository.
